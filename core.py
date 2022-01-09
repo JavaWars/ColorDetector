@@ -1,8 +1,5 @@
-import os
-import shutil
 from Arguments import ArgumentResolver
 from MyProc import Processor
-    
 def main():
     print("Hello World from main function!")
     
